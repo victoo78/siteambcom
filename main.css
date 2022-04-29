@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-image:url(https://p4.wallpaperbetter.com/wallpaper/686/491/734/pc-gaming-nvidia-geforce-hardware-wallpaper-preview.jpg);
+
+
+}
+
+#menu {
+list-style: none;
+padding: 10px;
+background-color: rgb(5, 5, 5);
+
+}
+
+#menu li  {
+    
+    display: inline;
+    padding: 30px;
+    
+    
+    
+    
+}
+
+#menu li a {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    margin: 5px;
+    
+}
+ 
+
+#menu  :hover  {
+
+    background-color: green;
+    
+}
+
+#homepage {
+    color: white;
+    text-align: center;
+    background-color: black;
+    margin: 20px;
+    padding: 20px;
+    font-size: 20px;
+}
+
+
+    
+    
+    
+
